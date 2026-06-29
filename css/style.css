@@ -660,6 +660,10 @@ section {
   background: linear-gradient(135deg, #0a1f0a 0%, #1a4020 100%);
 }
 
+.thumb-tourism {
+  background: linear-gradient(135deg, #050d1a 0%, #196cb5 50%, #d32a36 100%);
+}
+
 /* Thumbnail — Decorative UI Elements */
 .thumb-ui {
   position: absolute;
